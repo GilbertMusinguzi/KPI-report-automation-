@@ -1,0 +1,30 @@
+# Ignore system and cache files
+AppData/
+Thumbs.db
+Desktop.ini
+
+# Ignore AMD GPU cache
+AppData/Local/AMD/
+
+# Ignore Visual Studio Code settings and extensions
+.vscode/
+
+# Ignore binaries and object files
+*.bin
+*.obj
+*.exe
+*.dll
+*.log
+
+# Ignore Python cache (if using Python)
+__pycache__/
+*.py[cod]
+
+# Ignore node modules (if using Node.js)
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore Git files themselves
+.git/
