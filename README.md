@@ -1,1 +1,4 @@
 # KPI-report-automation-
+# The KPI report automation is purposely made to allow the automation of PowerPoint Presentation export downloads reducing time spent in manually designing them for this specific use case/deminstration sales data is used. 
+# To accurately test out the KPI report generator, it important to install all libraries as listed in the main.py code branch using the "pip install library name" command in the terminal of VS code, jupyter notebook among other programming platforms. 
+# Ensure that subprocess is installed because it allows us to export vectorized ppt graphs making them more conducive for presentations  
